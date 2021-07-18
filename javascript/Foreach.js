@@ -6,4 +6,4 @@ for(let valor of numeros){
 
 numeros.forEach(function(valor, indice, array){
     console.log(valor, indice, array)
-})
+})     
